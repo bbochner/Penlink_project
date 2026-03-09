@@ -3,7 +3,7 @@
 > **Retail Analytics: Operational Optimization at Shefa Issachar Supermarket**
 
 ##  Project Overview
-This project delivers an end-to-end analysis of the Yavne branch operations for the **Shefa Issachar** supermarket chain. By leveraging geolocation and transactional data from June to November 2025, the study transforms raw operational data into strategic insights regarding workforce scaling, self-checkout investment, and customer monetization.
+This project was developed as part of the **Data Analytics Program at the Google and Reichman AI Tech School (2025)**. It delivers an end-to-end analysis of the Yavne branch operations for the "Shefa Issachar" supermarket chain. By leveraging geolocation and transactional data from June to November 2025, the study transforms raw operational data into strategic insights regarding workforce scaling, self-checkout investment, and customer monetization.
 
 ---
 
